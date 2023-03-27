@@ -1,6 +1,6 @@
 # Taxy Experiments
 
-This repo is dedicated to hosting experimental Taxy tools and form factors.
+This repo is dedicated to hosting experimental Taxy AI tools and form factors.
 
 ## Puppeteer Browser
 
